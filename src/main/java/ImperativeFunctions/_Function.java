@@ -12,6 +12,7 @@ public class _Function {
         System.out.println(resultBiFunction);
 
         //bifunction
+        System.out.println("");
     }
 
     static Function<Integer,Integer> incrementByOneFunction = number -> number+1;
